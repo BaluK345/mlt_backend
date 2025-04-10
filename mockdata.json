@@ -1,0 +1,17 @@
+{
+    "wasteData": [
+      { "date": "2024-03-01", "amount": 150, "category": "Produce", "cost": 4500 },
+      { "date": "2024-03-02", "amount": 120, "category": "Dairy", "cost": 6000 },
+      { "date": "2024-03-03", "amount": 180, "category": "Meat", "cost": 18000 },
+      { "date": "2024-03-04", "amount": 90, "category": "Bakery", "cost": 2700 },
+      { "date": "2024-03-05", "amount": 200, "category": "Produce", "cost": 6000 },
+      { "date": "2024-03-06", "amount": 160, "category": "Dairy", "cost": 8000 },
+      { "date": "2024-03-07", "amount": 140, "category": "Meat", "cost": 14000 }
+    ],
+    "inventory": [
+      { "id": "1", "name": "Organic Apples", "quantity": 100, "expiryDate": "2024-03-20", "category": "Produce", "costPerKg": 80 },
+      { "id": "2", "name": "Fresh Milk", "quantity": 50, "expiryDate": "2024-03-15", "category": "Dairy", "costPerKg": 60 },
+      { "id": "3", "name": "Chicken Breast", "quantity": 30, "expiryDate": "2024-03-12", "category": "Meat", "costPerKg": 280 },
+      { "id": "4", "name": "Whole Grain Bread", "quantity": 25, "expiryDate": "2024-03-10", "category": "Bakery", "costPerKg": 100 }
+    ]
+  }
